@@ -7,9 +7,10 @@ Práctica de maquetación con flex
 Este proyecto consiste en una página web de ejemplo con html y css en la que uso la propiedad flex.
 ## Contenido de la publicación
 
-- **Introducción**: Describe los objetivos iniciales y las razones principales para realizar este proyecto.
-- **Resultados**: Resúmen de los resultados principales alcanzados.
-- **Perspectivas futuras**: Áreas de mejora o futuras iteraciones posibles del proyecto.
+El proyecto consta de los archivos:
+- **index.html**
+- **estilos.css**
+- **imágenes de ejemplo**
 
 ## Desarrollo del proyecto
 
