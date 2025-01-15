@@ -14,15 +14,13 @@ El proyecto consta de los archivos:
 
 ## Desarrollo del proyecto
 
-Explica el proceso de desarrollo, incluyendo:
-
-1. **Planificación**: Metodología utilizada, herramientas para gestionar tareas y objetivos iniciales.
-2. **Diseño y desarrollo**: Principales etapas del desarrollo y tecnologías involucradas.
-3. **Pruebas y evaluación**: Cómo se validó el proyecto, pruebas realizadas y resultados obtenidos.
+1. **Estructura:** Creación del archivo **index.html**.
+2. **Contenido:** Descargué las imágenes y las añadí en el html.
+3. **Estilo:** Añadí los estilos creando el archivo **estilos.css**.
 
 ## Despliegue
 
-El proyecto está disponible en: [Enlace a la página principal](URL_DE_DESPLIEGUE).
+El proyecto está disponible en local, puedes descargarlo en GitHub.
 
 ## Construido con
 
