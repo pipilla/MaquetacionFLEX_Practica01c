@@ -32,7 +32,7 @@ Lenguajes utilizados:
 
 ## Versionado
 
-Este proyecto no utiliza versiones.
+Version 1.0
 
 ## Autores
 
