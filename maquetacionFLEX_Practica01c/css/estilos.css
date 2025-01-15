@@ -1,0 +1,120 @@
+/* Juan Miguel Mena Sáez */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: Georgia;
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    width: 80%;
+    font-size: 1.4vw;
+    color: green;
+}
+
+header{
+    margin-top: 20px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid black;
+    font-style: italic;
+    margin-bottom: 26px;
+}
+
+header h1 {
+    color: green;
+}
+header h2 {
+    color: darkcyan;
+    font-size: 1.3vw;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+section {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    justify-content: flex-end;
+    max-width: 100%;
+}
+
+nav {
+    flex: 1 1 10%;
+    text-align: left;
+}
+
+#seccion_uno figure:nth-child(2) {
+    flex: 1 1 60%;
+}
+#seccion_uno figure:nth-child(3) {
+    flex: 1 1 30%;
+}
+
+#seccion_uno li {
+    margin-bottom: 8px;
+}
+
+#seccion_dos figure {
+    flex: 0 0 30%;
+}
+
+
+figure {
+    width: 100%;
+    border: 1px solid black;
+    margin-bottom: 12px;
+    padding: 8px;
+    border-radius: 10px;
+}
+figure img {
+    width: 90%;
+    border-radius: 14px;;
+}
+
+figcaption {
+    font-weight: bold;
+    font-style: italic;
+}
+
+footer {
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 16px;
+}
+
+address {
+    text-align: left;
+    flex: 0 0 20%;
+    color: green;
+}
+
+#copyright {
+    flex: 0 0 30%;
+    color: darkcyan;
+}
+
+#social {
+    flex: 0 0 20%;
+    max-width: 100%;
+}
+
+#social img{
+    margin-right: 3px;
+    max-width: 100%;
+    width: 24%;
+    height: 90%;
+}
