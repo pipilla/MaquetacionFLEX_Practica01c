@@ -44,4 +44,4 @@ Este proyecto es de código libre.
 
 ## Recursos adicionales
 
-- Enlace al repositorio en GitHub: [Repositorio en GitHub]().
+- Enlace al repositorio en GitHub: [Repositorio en GitHub](https://github.com/pipilla/MaquetacionFLEX_Practica01c).
