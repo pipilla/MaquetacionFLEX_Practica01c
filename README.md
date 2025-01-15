@@ -40,7 +40,7 @@ Version 1.0
 
 ## Licencia
 
-Este proyecto es de código libre.
+[GPL.3.0.](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Recursos adicionales
 
