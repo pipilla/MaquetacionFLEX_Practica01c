@@ -24,26 +24,24 @@ El proyecto está disponible en local, puedes descargarlo en GitHub.
 
 ## Construido con
 
-Enumera las principales tecnologías, lenguajes y herramientas utilizadas en el proyecto. Ejemplo:
+Lenguajes utilizados:
 
-- [React](https://reactjs.org/) - Framework de desarrollo web.
-- [Node.js](https://nodejs.org/) - Entorno de ejecución para JavaScript.
-- [PostgreSQL](https://www.postgresql.org/) - Base de datos relacional.
+- **HTML**
+- **CSS**
+
 
 ## Versionado
 
-Este proyecto utiliza [SemVer](https://semver.org/lang/es/) para el control de versiones. Consulta las [tags](URL_DE_TAGS) en este repositorio para más detalles.
+Este proyecto no utiliza versiones.
 
 ## Autores
 
-- **[Tu Nombre](https://github.com/TU_GITHUB)** - Rol principal en el proyecto.
+- **[Juan Miguel Mena Sáez]([https://github.com/pipilla])** - Autor.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto es de código libre.
 
 ## Recursos adicionales
 
-- Documentación: Enlace a la documentación principal (si aplica).
-- Demostraciones: Enlace a videos o capturas de pantalla del funcionamiento del proyecto (si aplica).
-- Enlace al repositorio en GitHub: [Repositorio en GitHub](URL_DEL_REPOSITORIO).
+- Enlace al repositorio en GitHub: [Repositorio en GitHub]().
